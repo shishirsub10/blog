@@ -1,5 +1,5 @@
 ---
-layout: Writeup
+layout: default 
 category: HackTheBox
 chall_description: 
 Difficulty: Medium - 30
